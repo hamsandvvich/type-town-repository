@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1600
     height: 976
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 38
+  controlID: 98
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 39
+  controlID: 38
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40
+  controlID: 39
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -356,7 +356,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/LowPolyTrees/Materials
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -364,17 +364,17 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/LowPolyTrees/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\hanna\OneDrive\Documents\github\type-town-repository\first
     3d proj
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78630000
-    m_LastClickedID: 25464
-    m_ExpandedIDs: 0000000078630000c263000000ca9a3b
+    scrollPos: {x: 0, y: 38.666473}
+    m_SelectedIDs: ca330100
+    m_LastClickedID: 78794
+    m_ExpandedIDs: 0000000082440000b6440000c6440000de4400001a450000324500006e450000aa45000076330100783301007a3301007c33010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -402,7 +402,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000078630000
+    m_ExpandedIDs: 00000000824400009e440000b6440000c6440000de4400001a45000076330100783301007a3301007c3301007e330100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -542,9 +542,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b0c5ffff
-      m_LastClickedID: -14928
-      m_ExpandedIDs: fcb6ffffecc5ffff34c6ffff26fbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 5073feff7473feff7673feff0e78feff8894feffd695feff1e96feff2096feff18b3feffb2b5feffcec2feff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -606,7 +606,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -164, y: -26.666656}
+      snapOffset: {x: -169.33337, y: -26.666656}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
@@ -911,9 +911,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 496.17462, y: 14.254499, z: 381.53717}
+    m_Target: {x: 508.37552, y: 19.604994, z: 374.99185}
     speed: 2
-    m_Value: {x: 496.17468, y: 14.254495, z: 381.5371}
+    m_Value: {x: 508.37552, y: 19.604994, z: 374.99185}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -959,13 +959,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.113741495, y: 0.015322228, z: -0.0017785057, w: 0.9934089}
+    m_Target: {x: 0.047771893, y: -0.09335799, z: 0.0044841515, w: 0.9944812}
     speed: 2
-    m_Value: {x: 0.11374115, y: 0.014328521, z: -0.0016647297, w: 0.9934057}
+    m_Value: {x: 0.025922874, y: -0.07550423, z: 0.0019630361, w: 0.99680656}
   m_Size:
-    m_Target: 8.703817
+    m_Target: 0.8660254
     speed: 2
-    m_Value: 9.113945
+    m_Value: 0.86716485
   m_Ortho:
     m_Target: 0
     speed: 2
