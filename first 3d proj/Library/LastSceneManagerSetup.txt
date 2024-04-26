@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/HAM.unity
+- path: Assets/Scenes/CARLY.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
